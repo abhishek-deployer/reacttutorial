@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.imgs {
+  width: 90vw; /* Full width of the viewport */
+  height: 500px;
+   /* Black border with 2px thickness */
+  border-radius: 15px 15px;
+}
